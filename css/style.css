@@ -1,0 +1,40 @@
+*{
+    font-family: "Times New Roman", Times, serif;
+   font-weight: 500;
+   margin: 0;
+
+}
+body{
+    background-color: black;
+    color: blue;
+    
+}
+
+
+button {
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    width: 180px;
+    height: 100px;
+    background-color: rgb(240, 6, 6);
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transition: 0.8s;
+    border: 0;
+    text-align: center;
+    tab-size: 150px;
+    letter-spacing: 8px;
+    border-radius: 9999px;
+    cursor: pointer;
+    tex
+
+    
+    
+
+}
+button:hover {
+    transform: scale(1.4);
+    background-color: rgb(255, 0, 0);
+    box-shadow: 0 0 125px  red ;
+} 
